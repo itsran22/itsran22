@@ -40,10 +40,10 @@ I'm currently learning the fundamentals of cybersecurity with a strong interest 
 
 ### 🔬 Current Focus
 
-[████████████████████████████████████████] 100% Motivation
-[██████████] 25% Technical Skills
-[██] 3% Bug Bounty Experience
-[████████████████] 40% Documentation Skills
+[████████████████████████████████████████ ] 100% Motivation
+[██████████ ] 25% Technical Skills
+[██ ] 3% Bug Bounty Experience
+[████████████████ ] 40% Documentation Skills
 
 ---
 
@@ -89,7 +89,7 @@ I'm currently learning the fundamentals of cybersecurity with a strong interest 
 ### 🌐 Connect With Me
 
 - 💼 **LinkedIn**: [linkedin.com/in/example](#)  
-- 🧠 **Hack The Box**: `@yitsran` 
+- 🧠 **Hack The Box**: `@itsran` 
 
 ---
 
