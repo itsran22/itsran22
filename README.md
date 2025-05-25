@@ -110,12 +110,6 @@ I'm currently learning the fundamentals of cybersecurity with a strong interest 
 
 ---
 
-### 🔄 Profile Views Counter
-
-![Profile Views](https://komarev.com/ghpv/?username=itsran22&color=green&style=flat-square&label=Profile+Views)
-
----
-
 *"Cybersecurity is a journey — and I'm just getting started."*
 
 **⭐ Star my repos if you're also learning! Let's grow together.**
